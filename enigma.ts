@@ -11,5 +11,7 @@ class Rotor {
     this.wiring = wiring;
   }
 
-  map(chr) {}
+  map(chr) {
+    var c: string = this.wiring[]
+  }
 }
